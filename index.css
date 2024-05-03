@@ -39,10 +39,10 @@ button {
 @media only screen and (max-width: 768px) {
     body {
         background-image: url(Background\ pubg.jpg);
-        background-size: 100vh;
+        background-size: cover;
         background-position: center;
         font-size: larger;
-        
+
     }
 
 }
